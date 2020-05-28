@@ -1,6 +1,6 @@
 import React from 'react';
-import my_image from './img/pices_logo.jpg'
-import './App.css';
+
+
 
 
 
