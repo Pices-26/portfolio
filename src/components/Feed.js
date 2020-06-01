@@ -4,6 +4,7 @@ function Feed(){
     return(
 
         <div class="expirience">
+            <div class ="title">Home</div>
             <span class="employmentRow">
                 1
             </span>
