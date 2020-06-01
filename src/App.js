@@ -8,10 +8,10 @@ import Projects from './components/Projects'
 import Other from './components/Other'
 import Contact from './components/Contact'
 import{
-  BrowserRouter as BrowserRouter,
+  BrowserRouter as Router,
   Route,
   Switch,
-  Link,
+  Link
 } from "react-router-dom";
 
 
@@ -20,7 +20,7 @@ import{
 function App() {
   return (
     <div className="main_body">
-      <BrowserRouter>
+      <Router>
         <Header/>
         <Navigation/>
           <Switch>
@@ -31,7 +31,7 @@ function App() {
             <Route path="/Contact" component={Contact}/>
           </Switch>
         <Footer/>
-      </BrowserRouter>
+      </Router>
     </div>
   );
 }

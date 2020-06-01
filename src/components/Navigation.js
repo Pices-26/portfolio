@@ -26,11 +26,11 @@ function Navigation(){
         */
        <nav>
            <ul>
-               <li><a href="/">Home</a></li>
-               <li><a href="/About">About</a></li>
-               <li><a href="/Projects">Projects</a></li>
-               <li><a href="/Other">Other</a></li>
-               <li><a href="/Contact">Contact</a></li>
+               <li><a><Link to="/">Home</Link></a></li>
+               <li><a><Link to="About">About</Link></a></li>
+               <li><a><Link to="Projects">Projects</Link></a></li>
+               <li><a><Link to="Other">Other</Link></a></li>
+               <li><a><Link to="Contact">Contact</Link></a></li>
            </ul>
        </nav>
     )
