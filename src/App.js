@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Feed from './components/Feed'
@@ -18,6 +18,7 @@ import{
 
 
 function App() {
+  const [basket, setBasket] = useState()
   return (
     <div className="main_body">
       <BrowserRouter>
