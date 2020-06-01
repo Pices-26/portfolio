@@ -1,0 +1,68 @@
+.employmentRow {
+    display: block;
+    margin: 3rem;
+    padding: 3rem;
+    overflow: visible;
+    background-color: lightseagreen;
+    height: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.employmentRowLast {
+    display: block;
+    padding: 3rem;
+    overflow: visible;
+    background-color: lightseagreen;
+    height: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.expirience {
+    width: 20rem;
+    height: auto;
+    margin: auto;
+}
+
+.my_image{
+    border-radius: 50%;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.main_body{
+    background-color: #1a1a1a;
+    width: auto;
+    height: auto;
+
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+nav{
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+nav li a{
+    padding: 1px 10px;
+    box-sizing: content-box;
+}
+
+.test {
+    width: 20rem;
+    height: 150rem;
+    margin: auto;
+}
+
+body{
+    margin-bottom: 0;
+}
