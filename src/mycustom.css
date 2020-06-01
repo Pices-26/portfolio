@@ -57,12 +57,6 @@ nav li a{
     box-sizing: content-box;
 }
 
-.test {
-    width: 20rem;
-    height: 150rem;
-    margin: auto;
-}
-
 body{
     margin-bottom: 0;
 }
