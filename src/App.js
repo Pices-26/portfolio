@@ -18,7 +18,6 @@ import{
 
 
 function App() {
-  const [basket, setBasket] = useState()
   return (
     <div className="main_body">
       <BrowserRouter>
