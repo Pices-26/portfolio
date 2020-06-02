@@ -1,7 +1,7 @@
 .employmentRow {
     display: block;
     margin: 3rem;
-    padding: 3rem;
+    padding: 1rem;
     overflow: visible;
     background-color: lightseagreen;
     height: 20rem;
@@ -66,4 +66,43 @@ body{
     padding-top: 5%;
     color: lightseagreen;
     font-weight: bold;
+}
+
+.feed_img{
+    width: 25%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feed_heading{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font: serif;
+    font-style: oblique;
+    font-size: large;
+}
+.feed_info{
+    text-align: center;
+    font-size: small;
+    font: serif;
+}
+
+.feed_more_info{
+    padding-top: 10px;
+    text-align: center;
+    font-size: x-small;
+    font: serif;
+}
+
+.feed_more_info_top{
+    padding-top: 40px;
+    text-align: center;
+    font-size: x-small;
+    font: serif;
+}
+
+.feed_link{
+
 }

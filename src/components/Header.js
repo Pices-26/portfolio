@@ -10,7 +10,7 @@ function Header(){
                     Marcel Kowalczyk
                 </span>
                 <span class="block ">
-                    <img src={my_image} alt="Imgae of me" className="my_image"/>
+                    <img src={my_image} alt="Image of me" className="my_image"/>
                 </span>
                 <span class="block text-teal-400 font-sans">
                     <p>Final Year</p>
