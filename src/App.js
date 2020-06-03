@@ -6,7 +6,6 @@ import Navigation from './components/Navigation'
 import About from './components/About'
 import Projects from './components/Projects'
 import Other from './components/Other'
-import Contact from './components/Contact'
 import{
   BrowserRouter as Router,
   Route,
@@ -28,7 +27,6 @@ function App() {
             <Route path="/About" component={About}/>
             <Route path="/Projects" component={Projects}/>
             <Route path="/Other" component={Other}/>
-            <Route path="/Contact" component={Contact}/>
           </Switch>
         <Footer/>
       </Router>

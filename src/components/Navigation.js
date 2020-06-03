@@ -30,7 +30,6 @@ function Navigation(){
                <li><Link to="About"><a>About</a></Link></li>
                <li><Link to="Projects"><a>Projects</a></Link></li>
                <li><Link to="Other"><a>Other</a></Link></li>
-               <li><Link to="Contact"><a>Contact</a></Link></li>
            </ul>
        </nav>
     )

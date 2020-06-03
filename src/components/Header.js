@@ -1,5 +1,6 @@
 import React from 'react'
 import my_image from './img/my_img.jpg';
+import me2 from './img/me2.png';
 
 
 function Header(){
@@ -10,14 +11,13 @@ function Header(){
                     Marcel Kowalczyk
                 </span>
                 <span class="block ">
-                    <img src={my_image} alt="Image of me" className="my_image"/>
+                    <img src={me2} alt="Image of me" className="my_image"/>
                 </span>
                 <span class="block text-teal-400 font-sans">
                     <p>Final Year</p>
                     Computer Science
                     <p>Student</p>
                 </span>
-
             </div>
         </header>
 
