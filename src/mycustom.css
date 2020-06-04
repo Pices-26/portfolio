@@ -3,7 +3,7 @@
     margin: 3rem;
     padding: 1rem;
     overflow: visible;
-    background-color: lightseagreen;
+    background-color: #c9c9c9;
     height: 20rem;
     margin-left: auto;
     margin-right: auto;
@@ -12,10 +12,11 @@
     display: block;
     padding: 3rem;
     overflow: visible;
-    background-color: lightseagreen;
+    background-color: #c9c9c9;
     height: 20rem;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 10%;
 }
 .expirience {
     width: 20rem;
@@ -31,10 +32,11 @@
     padding: 10px;
 }
 .main_body{
-    background-color: #1a1a1a;
+    background-color: #e8e8e8;
     width: auto;
     height: auto;
-
+    min-height: 100vh;
+    padding: 0;
 }
 
 nav ul li{
@@ -43,7 +45,7 @@ nav ul li{
 }
 
 nav{
-    background-color: lightseagreen;
+    background-color: #c9c9c9;
     display: flex;
     justify-content: space-between;
     padding: 10px;
@@ -53,7 +55,7 @@ nav{
 }
 
 nav li a{
-    padding: 1px 10px;
+    padding: 1px 7px;
     box-sizing: content-box;
 }
 
@@ -61,12 +63,33 @@ body{
     margin-bottom: 0;
 }
 
+footer{
+    background-color: #c9c9c9;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: x-small;
+    border-top: 4px solid #e8e8e8;
+}
+
+header{
+    display: block;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
 .title{
     text-align: center;
     padding-top: 5%;
-    color: lightseagreen;
+    color: black;
     font-weight: bold;
     font-style: oblique;
+    margin-bottom: 5%;
+    font-size: large;
+    font-family: Arial;
 }
 
 .feed_img{
@@ -105,10 +128,6 @@ body{
 }
 
 
-.socialmedia{
-    display: block;
-    
-}
 
 .main_about{
     margin-left: 10%;
@@ -117,7 +136,7 @@ body{
 
 .boxes_about{
     display: block;
-    background-color: lightseagreen;
+    background-color: #c9c9c9;
     margin-top: 20px;
 }
 
@@ -143,41 +162,61 @@ body{
     font-size: small;
 }
 
+.project_body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project_container{
+    margin: 10px;
+    width: 35%;
+}
+
 .project_pic{
-    width: 20rem;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
     margin-top: 10%;
 }
 
 .project_paragraph{
-    display: block;
-    background-color: lightseagreen;
+    display: flex;
+    background-color: #c9c9c9;
     font-size: small;
     text-align: center;
-    margin-left: 20%;
-    margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    padding-bottom: 40px;
 }
 .project_title{
     text-align: center;
     padding: 10px;
     font-style: oblique;
+    background-color: #c9c9c9;
+}
+
+.other_body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.other_box{
+    margin: 10px;
+    width: 30%;
 }
 
 .other_title{
     padding: 10px;
     text-align: center;
-    color: white;
+    color: black;
 }
 .about_block{
     display: block;
-    background-color: lightseagreen;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20rem;
-
+    background-color: #c9c9c9;
+    margin-bottom: 20px;
 }
 
-.listcertificates{
-    padding-left: 10px;
+.lists{
+    text-align: center;
 }

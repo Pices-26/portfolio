@@ -6,9 +6,8 @@ import dc_fire from './img/dcfire.png';
 
 function Feed(){
     return(
-
+        <div><div class ="title">Home</div>
         <div class="expirience">
-            <div class ="title">Home</div>
             <span class="employmentRow">
                 <span>
                     <img src={tud} alt="tud logo" class="feed_img"/>
@@ -28,7 +27,7 @@ function Feed(){
                 </span>
                 <span class="employmentRow">
                     <img src={dc_fire} alt="DCC logo" class="feed_img"/>
-                    <div class="feed_heading">Dublin City Council</div>
+                    <div class="feed_heading">Dublin City Fire Brigade</div>
                     <div class = "feed_info">System Admin</div>
                     <div class = "feed_info">Work Experience</div>
                     <div class = "feed_more_info">2014-2014</div>
@@ -46,6 +45,7 @@ function Feed(){
                     <div class = "feed_more_info">•System Upgrade</div>
                     <div class = "feed_more_info">•Hardware Testing</div>
             </span>
+        </div>
         </div>
     )
 }

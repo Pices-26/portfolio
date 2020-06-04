@@ -5,16 +5,30 @@ export default function Projects() {
     return (
         <div>
             <div class ="title">Check out some of my projects</div>
-            <img src={sample} alt="sample" className="project_pic"/>
-            <div class="project_paragraph">
-                <div class="project_title">This is a title</div>
-                Some project paragraph
-            </div>
+            <div class="project_body">
+                <div class = "project_container">
+                    <img src={sample} alt="sample" className="project_pic"/>
+                    <div class="project_title">This is a title</div>
+                    <div class="project_paragraph">
+                        Some project paragraph
+                    </div>
+                </div>
 
-            <img src={sample} alt="sample" className="project_pic"/>
-            <div class="project_paragraph">
-                <div class="project_title">This is a title</div>
-                Some other project paragraph
+                <div class = "project_container">
+                    <img src={sample} alt="sample" className="project_pic"/>
+                    <div class="project_title">This is a title</div>
+                    <div class="project_paragraph">
+                        Some project paragraph
+                    </div>
+                </div>
+
+                <div class = "project_container">
+                    <img src={sample} alt="sample" className="project_pic"/>
+                    <div class="project_title">This is a title</div>
+                    <div class="project_paragraph">
+                        Some project paragraph
+                    </div>
+                </div>
             </div>
         </div>
     )
