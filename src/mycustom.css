@@ -16,8 +16,15 @@
     height: 20rem;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 10%;
+    padding-bottom: 50px;
 }
+
+.dummytext{
+    display: block;
+    background-color: #c9c9c9;
+    color:#c9c9c9;
+}
+
 .expirience {
     width: 20rem;
     height: auto;
@@ -37,7 +44,13 @@
     height: auto;
     min-height: 100vh;
     padding: 0;
+    display: flex;
+    flex-direction: column;
 }
+
+.content {
+    flex: 1 0 auto;
+  }
 
 nav ul li{
     list-style: none;
@@ -59,18 +72,14 @@ nav li a{
     box-sizing: content-box;
 }
 
-body{
-    margin-bottom: 0;
-}
 
 footer{
     background-color: #c9c9c9;
     text-align: center;
-    position: fixed;
-    bottom: 0;
     width: 100%;
     font-size: x-small;
     border-top: 4px solid #e8e8e8;
+    margin-top: 20px;
 }
 
 header{
@@ -219,4 +228,21 @@ header{
 
 .lists{
     text-align: center;
+}
+
+
+.footer_icon_box{
+    list-style-type: none;
+    display: inline;
+    overflow: hidden;
+}
+
+.footer_icon{
+    width: 5%;
+    display: inline;
+    padding: 5px;
+}
+
+.footer_text{
+    padding-top: 5px;
 }

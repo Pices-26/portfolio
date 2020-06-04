@@ -44,7 +44,7 @@ function Feed(){
                     <div class = "feed_more_info_top">•Hardware Upgrade</div>
                     <div class = "feed_more_info">•System Upgrade</div>
                     <div class = "feed_more_info">•Hardware Testing</div>
-            </span>
+            </span>    
         </div>
         </div>
     )

@@ -19,6 +19,7 @@ import{
 function App() {
   return (
     <div className="main_body">
+      <div class = "content">
       <Router>
         <Header/>
         <Navigation/>
@@ -30,6 +31,7 @@ function App() {
           </Switch>
         <Footer/>
       </Router>
+      </div>
     </div>
   );
 }
