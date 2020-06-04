@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c091b8e8c49b5f31026822c65bc7db30",
+    "revision": "0c6cfbcc2a5d7045cf35252ab7bb757b",
     "url": "/index.html"
   },
   {
-    "revision": "60bd0f35bf33adf70446",
-    "url": "/static/css/main.e7472d0b.chunk.css"
+    "revision": "fd51ae3751e00743f2f4",
+    "url": "/static/css/main.535548ed.chunk.css"
   },
   {
-    "revision": "b5796306e94d3622122c",
-    "url": "/static/js/2.ebb3534a.chunk.js"
+    "revision": "8e53369e080e9f2dd0d0",
+    "url": "/static/js/2.30e3db68.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.ebb3534a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.30e3db68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60bd0f35bf33adf70446",
-    "url": "/static/js/main.9a254736.chunk.js"
+    "revision": "fd51ae3751e00743f2f4",
+    "url": "/static/js/main.282bd505.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
@@ -28,12 +28,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cert_deep.e11ec1cc.png"
   },
   {
+    "revision": "acfe23b02e5e5bf57309e91873120a32",
+    "url": "/static/media/cv.acfe23b0.png"
+  },
+  {
     "revision": "ad003a2786636f8cbb6357c1a5bfa1b8",
     "url": "/static/media/dc_logo_dark.ad003a27.png"
   },
   {
     "revision": "20054dcf196d090c0006cd06d87c2089",
     "url": "/static/media/dcfire.20054dcf.png"
+  },
+  {
+    "revision": "acabd56e8d305bb483e7b8f174f152ab",
+    "url": "/static/media/git.acabd56e.png"
+  },
+  {
+    "revision": "15fd5adb3c750e71a0e6ba69caaabe5f",
+    "url": "/static/media/linkedin.15fd5adb.png"
   },
   {
     "revision": "ae7c4f4f5f95faa635affa08fb3a93c5",
@@ -50,5 +62,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f41947c52fb66e4f21f20f34ae1cdf6",
     "url": "/static/media/tud.7f41947c.png"
+  },
+  {
+    "revision": "6129305f8e032f4564d52398cf2c0e89",
+    "url": "/static/media/yt.6129305f.png"
   }
 ]);
