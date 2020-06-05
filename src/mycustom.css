@@ -56,7 +56,7 @@ nav{
     padding: 10px;
     text-align: center;
     justify-content: center;
-    font-weight: bold;
+    font-weight: 750;
 }
 
 nav li a{
@@ -86,10 +86,10 @@ header{
     padding-top: 5%;
     color: black;
     font-weight: bold;
-    font-style: oblique;
     margin-bottom: 5%;
-    font-size: large;
+    font-size: larger;
     font-family: Arial;
+    font-weight: 500;
 }
 
 .feed_img{
@@ -214,7 +214,25 @@ header{
     padding: 10px;
     text-align: center;
     color: black;
+    font-weight: 450;
+    font-size: small;
 }
+
+.other_title_cert{
+    text-align: center;
+    color: black;
+    font-weight: 450;
+    font-size: small;
+}
+
+.other_click{
+    padding-bottom: 5px;
+    text-align: center;
+    color: black;
+    font-weight: 450;
+    font-size: small;
+}
+
 .about_block{
     display: block;
     background-color: #c9c9c9;
@@ -227,7 +245,8 @@ header{
     padding-right: 3%;
     padding-top: 3%;
     list-style:outside circle;
-    
+    font-weight: 350;
+    font-size: small;
 }
 
 
@@ -244,4 +263,5 @@ header{
 .footer_text{
     padding-top: 1%;
 }
+
 

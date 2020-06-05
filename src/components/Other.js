@@ -7,7 +7,8 @@ export default function Other() {
         <div class ="title">Other information</div>
             <div class = "other_body">
                 <div class = "other_box">
-                    <div class="other_title">Certificates (clickable)</div>
+                    <div class="other_title_cert">Certificates</div>
+                    <div class="other_click">(Clickable)</div>
                     <div class = "about_block">
                         <li class="lists"><a href={"https://www.coursera.org/account/accomplishments/specialization/8GBQMUVKJVGK"} target="_blank">Deep Learning Specialization</a></li>
                         <li class="lists"><a href={"http://coursera.org/verify/specialization/QWXN7PG93V5N"} target="_blank">Algorithms Specialization</a></li>
