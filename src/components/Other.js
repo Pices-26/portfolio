@@ -7,38 +7,31 @@ export default function Other() {
         <div class ="title">Other information</div>
             <div class = "other_body">
                 <div class = "other_box">
-                    <div class="other_title">Certificates</div>
+                    <div class="other_title">Certificates (clickable)</div>
                     <div class = "about_block">
-                        <li class="lists">cert1</li>
-                        <li class="lists">cert2</li>
-                        <li class="lists">cert3</li>
-                        <li class="lists">cert4</li>
-                        <li class="lists">cert5</li>
-                        <li class="lists">cert6</li>
+                        <li class="lists"><a href={"https://www.coursera.org/account/accomplishments/specialization/8GBQMUVKJVGK"} target="_blank">Deep Learning Specialization</a></li>
+                        <li class="lists"><a href={"http://coursera.org/verify/specialization/QWXN7PG93V5N"} target="_blank">Algorithms Specialization</a></li>
+                        <li class="lists"><a href={"https://courses.nvidia.com/certificates/738cdc995277423596ed74768a507611"} target="_blank">Getting Started with AI on Jetson Nano</a></li>
+                        <li class="lists"><a href={"https://drive.google.com/drive/folders/111BaS4L30SaZHDedJRfxGXHSq375feFS?usp=sharing"} target="_blank">CCNA</a></li>
                     </div>
                 </div>
 
                 <div class = "other_box">
-                <div class="other_title">Books I liked</div>
+                <div class="other_title">Books I've liked</div>
                     <div class = "about_block">
-                        <li class="lists">Book1</li>
-                        <li class="lists">Book2</li>
-                        <li class="lists">Book3</li>
-                        <li class="lists">Book4</li>
-                        <li class="lists">Book5</li>
-                        <li class="lists">Book6</li>
+                        <li class="lists">Essential Discrete Mathematics For Computer Science</li>
+                        <li class="lists">Introduction to Algorithms (3rd edition)</li>
+                        <li class="lists">Hands on Machine Learning with Scikit and TensorFlow</li>
                     </div>
                 </div>
 
                 <div class = "other_box">
-                <div class="other_title">Books I liked</div>
+                <div class="other_title">Where do I do what</div>
                     <div class = "about_block">
-                        <li class="lists">Book1</li>
-                        <li class="lists">Book2</li>
-                        <li class="lists">Book3</li>
-                        <li class="lists">Book4</li>
-                        <li class="lists">Book5</li>
-                        <li class="lists">Book6</li>
+                        <li class="lists">GitHub - Host some of my code to make it more accessible for myself</li>
+                        <li class="lists">Linked In - Most up to date qualification</li>
+                        <li class="lists">Youtube - Create educational content</li>
+                        <li class="lists">Twitch - Stream project creation and problem solving</li>
                     </div>
                 </div>
             </div>

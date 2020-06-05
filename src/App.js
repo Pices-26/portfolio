@@ -29,9 +29,10 @@ function App() {
             <Route path="/Projects" component={Projects}/>
             <Route path="/Other" component={Other}/>
           </Switch>
-        <Footer/>
+        
       </Router>
       </div>
+      <Footer/>
     </div>
   );
 }

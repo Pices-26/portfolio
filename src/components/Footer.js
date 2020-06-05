@@ -6,13 +6,6 @@ import tw from './img/tw.png'
 import cv from './img/cv.png'
 
 
-import{
-    BrowserRouter as Router,
-    Route,
-    Switch,
-    Link,
-  } from "react-router-dom";
-
 function Footer(){
     
     return(
