@@ -7,7 +7,7 @@ function About(){
             <div class = "main_about">
                 <div class="boxes_about">
                     <div class="questions">
-                        How did you get into programming?
+                        How did I get into programming?
                     </div>
                     <div class="answers">
                         I always liked solving problems. One of my lecturers that thought me algorithms and cloud computing
@@ -21,7 +21,7 @@ function About(){
                 </div>
                 <div class="boxes_about">
                     <div class="questions">
-                        One thing you regret and why?
+                        One thing I regret and why?
                     </div>
                     <div class="answers">
                         One thing I really regret is not starting programming early. I always thought that you need to be in college
@@ -32,7 +32,7 @@ function About(){
                 </div>
                 <div class="boxes_about">
                     <div class="questions">
-                        What do you consider to be your greatest strength and weakness?
+                        What do I consider to be your greatest strength and weakness?
                     </div>
                     <div class="answers">
                         Going into a task with the unknown. It's weakness is not knowing what to do right away. It's 
@@ -42,7 +42,7 @@ function About(){
                 </div>
                 <div class="boxes_about">
                     <div class="questions">
-                        Why do you like what you're doing?
+                        Why do I like what I'm doing?
                     </div>
                     <div class="answers">
                         Being able to overcome obstacles in projects is really rewarding by itself. Having so much 

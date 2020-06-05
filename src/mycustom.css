@@ -10,7 +10,7 @@
 }
 .employmentRowLast {
     display: block;
-    padding: 3rem;
+    padding: 1rem;
     overflow: visible;
     background-color: #c9c9c9;
     height: 20rem;
@@ -106,25 +106,29 @@ header{
     font: serif;
     font-style: oblique;
     font-size: large;
+    font-weight: 600;
 }
 .feed_info{
     text-align: center;
-    font-size: small;
+    font-size: medium;
     font: serif;
+    font-weight: 500;
 }
 
 .feed_more_info{
     padding-top: 10px;
     text-align: center;
-    font-size: x-small;
+    font-size: small;
     font: serif;
+    font-weight: 400;
 }
 
 .feed_more_info_top{
     padding-top: 40px;
     text-align: center;
-    font-size: x-small;
+    font-size: small;
     font: serif;
+    font-weight: 400;
 }
 
 
