@@ -14,7 +14,8 @@ export default function Other() {
                         <li class="lists"><a href={"http://coursera.org/verify/specialization/QWXN7PG93V5N"} target="_blank">Algorithms Specialization</a></li>
                         <li class="lists"><a href={"https://courses.nvidia.com/certificates/738cdc995277423596ed74768a507611"} target="_blank">Getting Started with AI on Jetson Nano</a></li>
                         <li class="lists"><a href={"https://drive.google.com/drive/folders/111BaS4L30SaZHDedJRfxGXHSq375feFS?usp=sharing"} target="_blank">CCNA</a></li>
-                        <li class="lists"><a href={"http://coursera.org/verify/professional-cert/R4BKBDGJQ9ND"} target="_blank">Google IT Automation with Python Specialization </a></li>
+                        <li class="lists"><a href={"http://coursera.org/verify/professional-cert/R4BKBDGJQ9ND"} target="_blank">Google IT Automation with Python Specialization</a></li>
+                        <li class="lists"><a href={"http://coursera.org/verify/JQHF6BVRULZT"} target="_blank">Introduction to Self-Driving Cars</a></li>
                     </div>
                 </div>
 

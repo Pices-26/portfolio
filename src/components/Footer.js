@@ -24,7 +24,7 @@ function Footer(){
                     <li class = "footer_icon"><a href={"https://www.twitch.tv/pices26"} target="_blank"><img src={tw} alt="git" className="footer_icon"/></a></li>
                 
                 
-                    <li class = "footer_icon"><a href={"https://drive.google.com/file/d/1x0tHcGHWdrSUDagjdKEG5hM8SiKplSan/view?usp=sharing"} target="_blank"><img src={cv} alt="git" className="footer_icon"/></a></li>
+                    <li class = "footer_icon"><a href={"https://drive.google.com/drive/folders/13BwG9sgDXabC5O8TCkKRFE9xAwEuS8s9?usp=sharing"} target="_blank"><img src={cv} alt="git" className="footer_icon"/></a></li>
             </ul>
         </footer>
     )
