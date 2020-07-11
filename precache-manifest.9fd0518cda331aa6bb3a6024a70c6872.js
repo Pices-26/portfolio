@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cca91db0903ce70a3862681baf24c1b",
+    "revision": "545b0040dbbffa3a6fe1bbaf23795eed",
     "url": "/index.html"
   },
   {
-    "revision": "5db2ee3038c1fd086037",
+    "revision": "c5e9457c423a29b9a9c6",
     "url": "/static/css/main.e2b2a985.chunk.css"
   },
   {
-    "revision": "9322dea6ec4d2913c71c",
-    "url": "/static/js/2.7b340cf7.chunk.js"
+    "revision": "c812fe93079600a4e1a4",
+    "url": "/static/js/2.05c11b6b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.7b340cf7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.05c11b6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5db2ee3038c1fd086037",
-    "url": "/static/js/main.c00877e0.chunk.js"
+    "revision": "c5e9457c423a29b9a9c6",
+    "url": "/static/js/main.1d180b6b.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
     "url": "/static/js/runtime-main.e5fc83a6.js"
+  },
+  {
+    "revision": "4f0865e3d152a0db40a57e9017a34eaf",
+    "url": "/static/media/ai_tinder_bot_project.4f0865e3.png"
   },
   {
     "revision": "e11ec1ccaebc5496ae8caeb024d18d12",
