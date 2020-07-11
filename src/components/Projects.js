@@ -3,12 +3,25 @@ import sample from './img/sample_project.jpg'
 import slam from './img/slamimg.png'
 import rlearn from './img/rlearn.png'
 import weather from './img/weather.png'
+import tinderbot from './img/ai_tinder_bot_project.png'
 
 export default function Projects() {
     return (
         <div>
+
             <div class ="title">Check out some of my projects</div>
             <div class="project_body">
+
+                <div class = "project_container">
+                    <img src={tinderbot} alt="sample" className="project_pic"/>
+                    <div class="project_title">AI Tinder Bot</div>
+                    <div class="project_paragraph">
+                        This bot allows you to collect your own data from the website. The data will be used to classify, like or dislike, a person on tinder.
+                        You can also add some images from outside of tinder. Each image is prepared (downloading, extracting features and preparing it for our CNN).
+                        We are liking or disliking based on facial features.
+                    </div>
+                </div>
+
                 <div class = "project_container">
                     <img src={slam} alt="sample" className="project_pic"/>
                     <div class="project_title">Point Detection for SLAM</div>
