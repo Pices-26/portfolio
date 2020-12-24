@@ -1,25 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.e2b2a985.chunk.css",
-    "main.js": "/static/js/main.1d180b6b.chunk.js",
-    "main.js.map": "/static/js/main.1d180b6b.chunk.js.map",
+    "main.js": "/static/js/main.e66d62bb.chunk.js",
+    "main.js.map": "/static/js/main.e66d62bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
-    "static/js/2.05c11b6b.chunk.js": "/static/js/2.05c11b6b.chunk.js",
-    "static/js/2.05c11b6b.chunk.js.map": "/static/js/2.05c11b6b.chunk.js.map",
+    "static/js/2.f143a2d6.chunk.js": "/static/js/2.f143a2d6.chunk.js",
+    "static/js/2.f143a2d6.chunk.js.map": "/static/js/2.f143a2d6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9fd0518cda331aa6bb3a6024a70c6872.js": "/precache-manifest.9fd0518cda331aa6bb3a6024a70c6872.js",
+    "precache-manifest.964328c827f6671a2fae56ffc7a87225.js": "/precache-manifest.964328c827f6671a2fae56ffc7a87225.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e2b2a985.chunk.css.map": "/static/css/main.e2b2a985.chunk.css.map",
-    "static/js/2.05c11b6b.chunk.js.LICENSE.txt": "/static/js/2.05c11b6b.chunk.js.LICENSE.txt",
+    "static/js/2.f143a2d6.chunk.js.LICENSE.txt": "/static/js/2.f143a2d6.chunk.js.LICENSE.txt",
     "static/media/ai_tinder_bot_project.png": "/static/media/ai_tinder_bot_project.4f0865e3.png",
+    "static/media/car_fyp.png": "/static/media/car_fyp.ea5fa6b3.png",
     "static/media/cert_deep.png": "/static/media/cert_deep.e11ec1cc.png",
     "static/media/cv.png": "/static/media/cv.acfe23b0.png",
     "static/media/dc_logo_dark.png": "/static/media/dc_logo_dark.ad003a27.png",
     "static/media/dcfire.png": "/static/media/dcfire.20054dcf.png",
     "static/media/git.png": "/static/media/git.acabd56e.png",
+    "static/media/image_processing_ca_1.png": "/static/media/image_processing_ca_1.32924541.png",
+    "static/media/image_processing_ca_2.png": "/static/media/image_processing_ca_2.1afd1a44.png",
     "static/media/linkedin.png": "/static/media/linkedin.15fd5adb.png",
     "static/media/me2.png": "/static/media/me2.ae7c4f4f.png",
+    "static/media/mlc.png": "/static/media/mlc.2933d0a8.png",
     "static/media/my_img.jpg": "/static/media/my_img.4a526ad5.jpg",
     "static/media/rlearn.png": "/static/media/rlearn.67e25a80.png",
     "static/media/sample_project.jpg": "/static/media/sample_project.d5d6b1c5.jpg",
@@ -30,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
-    "static/js/2.05c11b6b.chunk.js",
+    "static/js/2.f143a2d6.chunk.js",
     "static/css/main.e2b2a985.chunk.css",
-    "static/js/main.1d180b6b.chunk.js"
+    "static/js/main.e66d62bb.chunk.js"
   ]
 }
