@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73dfd98c5508fef5fd2d7f126ea19189",
+    "revision": "eb33b600012a521ad0a112ae93703bb7",
     "url": "/index.html"
   },
   {
-    "revision": "37a675af253ddda42c5e",
+    "revision": "6b9aaa22c985ab1fd628",
     "url": "/static/css/main.e2b2a985.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f143a2d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37a675af253ddda42c5e",
-    "url": "/static/js/main.e66d62bb.chunk.js"
+    "revision": "6b9aaa22c985ab1fd628",
+    "url": "/static/js/main.01f099bd.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4f0865e3d152a0db40a57e9017a34eaf",
     "url": "/static/media/ai_tinder_bot_project.4f0865e3.png"
-  },
-  {
-    "revision": "ea5fa6b388fd75cffbb5f53e75438496",
-    "url": "/static/media/car_fyp.ea5fa6b3.png"
   },
   {
     "revision": "e11ec1ccaebc5496ae8caeb024d18d12",
@@ -46,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "20054dcf196d090c0006cd06d87c2089",
     "url": "/static/media/dcfire.20054dcf.png"
+  },
+  {
+    "revision": "8f160c8dfa7cacf7fc4bde572b9ad4db",
+    "url": "/static/media/fyp.8f160c8d.png"
   },
   {
     "revision": "acabd56e8d305bb483e7b8f174f152ab",
